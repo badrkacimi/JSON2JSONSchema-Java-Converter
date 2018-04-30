@@ -16,7 +16,7 @@ Part II
 ```
 Run JacksonJsonSchemaGenerator.java
 ```
-Output: 
+Output: resources/generated
 
  Developed during my internship 
  
