@@ -18,7 +18,7 @@
 		import com.fasterxml.jackson.module.jsonSchema.JsonSchemaGenerator;
 		
 		/**
-	     *Hiveprod-Badr Kac
+	     *Author Badr Kacimi
 		 */
 		public class JacksonJsonSchemaGenerator {
 			 public static void main(String[] args)
@@ -54,7 +54,7 @@
 		
 		private static void createFileWithOption(Class clazz, StringWriter jsonSchemafile) throws IOException {
 			// output
-			File filegeneree = new File("./src/main/resources/generated/" +clazz.getName().replace("java", "").replace("com.hiveprod.pojogen.", "")+".jsonschema");
+			File filegeneree = new File("./src/main/resources/generated/" +clazz.getName().replace("java", "").replace("com.badrkacimi.pojogen.", "")+".jsonschema");
 			filegeneree.getParentFile().mkdirs();
 			FileWriter fw = new FileWriter(filegeneree.getAbsoluteFile());
 			BufferedWriter bw = new BufferedWriter(fw);
