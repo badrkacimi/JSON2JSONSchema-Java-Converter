@@ -8,13 +8,16 @@ Part I
 ```
 Run JsonToPojo.java
 ```
+```
 Output: com.badrkacimi.schemagenerator
-
+```
 Part II
 * POJO2JSONSCHEMA 
 ```
 Run JacksonJsonSchemaGenerator.java
 ```
+Output: 
+
  Developed during my internship 
  
  # fork and contribute !
