@@ -1,9 +1,8 @@
 # JSON2SCHEMA
 JSON to JSON Schema Converter With JAVA 
 
-* english
 # Json2JsonSchema
-Part JSON2POJO
+Part JSON2POJO (one or tree of json files)
 ```
 Run JsonToPojo.java
 ```
@@ -14,5 +13,6 @@ Part POJO2JSONSCHEMA
 Run JacksonJsonSchemaGenerator.java
 ```
  Developed during my internship 
- fork and contribute !
+ 
+ # fork and contribute !
  
