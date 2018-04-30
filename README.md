@@ -3,13 +3,15 @@ JSON to JSON Schema Converter With JAVA
 for Metamodeling purposes
 
 # Json2JsonSchema
-Part JSON2POJO (one or tree of json files)
+Part I 
+* JSON2POJO (one or tree of json files)
 ```
 Run JsonToPojo.java
 ```
 Output: com.badrkacimi.schemagenerator
 
-Part POJO2JSONSCHEMA 
+Part II
+* POJO2JSONSCHEMA 
 ```
 Run JacksonJsonSchemaGenerator.java
 ```
