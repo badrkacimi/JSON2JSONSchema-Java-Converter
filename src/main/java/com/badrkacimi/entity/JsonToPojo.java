@@ -15,8 +15,7 @@
 		import org.jsonschema2pojo.SourceType;
 		import org.jsonschema2pojo.rules.RuleFactory;
 		
-		//import com.hiveprod.generator.service.OpenJpaPojoTransformationService;
-		//import com.hiveprod.generator.service.OpenJpaPojoTransformationService;
+		
 		import com.sun.codemodel.JCodeModel;  
 		public class JsonToPojo {  
 		     /**  
@@ -25,7 +24,7 @@
 		  */  
 		 public static void main(String[] args) throws IOException {  
 			 
-		     String packageName="com.hiveprod.pojogen"; // output package    
+		     String packageName="com.badrkacimi.pojogen"; // output package    
 		 File outputPojoDirectory=new File("./src/main/java");  
 		
 		     List<File> files = gettingJson_files();
