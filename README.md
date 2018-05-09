@@ -19,7 +19,7 @@ Run JacksonJsonSchemaGenerator.java
 Output: resources/generated
 
  Developed during my internship 
- 
+ still under development 
  # fork and contribute !
  
  
