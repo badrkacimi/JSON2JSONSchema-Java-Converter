@@ -1,6 +1,7 @@
 # JSON2SCHEMA
-JSON to JSON Schema Converter With JAVA 
+* JSON to JSON Schema Converter With JAVA 
 for Metamodeling purposes
+* Generate Plain Old Java Objects from JSON
 
 # Json2JsonSchema
 Part I 
