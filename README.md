@@ -1,4 +1,4 @@
-# JSON2SCHEMA ![](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
+# JSON2SCHEMA ![](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat) ![Build Status](https://travis-ci.org/shekhargulati/spring-boot-maven-angular-starter.svg?
 * JSON to JSON Schema Converter With JAVA 
 for Metamodeling purposes
 * Generate Plain Old Java Objects from JSON
