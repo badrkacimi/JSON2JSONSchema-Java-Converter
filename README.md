@@ -1,4 +1,4 @@
-# JSON2SCHEMA
+# JSON2SCHEMA [](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
 * JSON to JSON Schema Converter With JAVA 
 for Metamodeling purposes
 * Generate Plain Old Java Objects from JSON
